@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**vetriselvans-dev/vetriselvans-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vetri Selvan S 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Java | Spring Boot | Angular | PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer interested in building scalable,
+reliable and user-focused software applications.
+
+### 💻 Technical Skills
+
+- **Languages:** Java, JavaScript, TypeScript, SQL
+- **Backend:** Spring Boot, Spring Data JPA, REST APIs
+- **Frontend:** Angular, HTML, CSS
+- **Database:** PostgreSQL
+- **Tools:** Git, GitHub, IntelliJ IDEA
+- **Currently Exploring:** Generative AI, RAG, LLMs, Docker and AWS
+
+### 🎓 Education
+
+- MCA – Generative AI | SRM University (Online) | 2026–2028
+- BCA | Mar Gregorios College of Arts and Science | 2020–2023
+
+### 💼 Professional Experience
+
+- Software Engineer – Malkris
+- Junior Software Engineer – Bocxy Technologies Pvt Ltd
+
+### 🎯 Current Goals
+
+- Strengthening Data Structures and Algorithms
+- Building production-quality applications
+- Learning system design and cloud technologies
+- Exploring Generative AI applications
+
+### 📫 Connect with me
+
+- Email: vetriselvans.engineer@gmail.com
+- GitHub: https://github.com/vetriselvans-dev
